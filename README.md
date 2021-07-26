@@ -18,3 +18,12 @@ $ npm run generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
+
+## Team
+```bash
+SYAHRUL IZHA MAHENDRA
+NUR ALI SHOLIKHIN
+MUHAMAD ASRORI
+ISHAQ AGASTYAN MAULANA PRATAMA
+ADITYA SIGIT HIMAWAN
+```

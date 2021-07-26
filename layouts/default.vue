@@ -11,6 +11,11 @@
           <b-navbar-nav>
             <b-nav-item to="/provinsi">Provinsi</b-nav-item>
             <b-nav-item to="/kabupaten">Kabupaten</b-nav-item>
+            <b-nav-item to="/kota">Kota</b-nav-item>
+            <b-nav-item to="/kecamatan">Kecamatan</b-nav-item>
+            <b-nav-item to="/berita_desa">Berita Desa</b-nav-item>
+            <b-nav-item to="/lembagadesa">Lembaga Desa</b-nav-item>
+            <b-nav-item to="/jenispotensidesa">Jenis Potensi Desa</b-nav-item>
           </b-navbar-nav>
         </b-collapse>
       </b-navbar>

@@ -32,7 +32,7 @@
     mounted() {
       console.log("asik");
       //fething ke Rest API 
-      this.$axios.get('/api/provinsi')
+      this.$axios.get('visla.informatika.academy/public/api/jenispotensidesa')
         .then(response => {
           //assign response ke state "provinsi"
           this.provinsi = response.data.data
@@ -50,7 +50,7 @@
        async deleteProvinsi(row) {
         
         //delete data post by ID
-        await this.$axios.delete(`/api/provinsi/${row.item.id}`)
+        await this.$axios.delete(`visla.informatika.academy/public/api/jenispotensidesa/${row.item.id}`)
           .then(() => {
 
             //remove item array by index
